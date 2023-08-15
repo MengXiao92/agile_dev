@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mchisel3.internal.ChiselException: Connection between sink (Black.b: IO[UInt<8>]) and source (BlackDut.io.out_b: IO[UInt<8>]) failed @: b in Black cannot be written from module BlackDut.[0m
+[0m[[0m[31merror[0m] [0m[0m	at ... ()[0m
+[0m[[0m[31merror[0m] [0m[0m	at chisel_study.BlackDut.<init>(blackbox.scala:23)[0m
+[0m[[0m[31merror[0m] [0m[0m	at chisel_study.blackMain$.$anonfun$new$5(blackbox.scala:29)[0m
+[0m[[0m[31merror[0m] [0m[0m	at ... ()[0m
+[0m[[0m[31merror[0m] [0m[0m	at ... (Stack trace trimmed to user code only. Rerun with --full-stacktrace to see the full stack trace)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mrunMain[0m) chisel3.internal.ChiselException: Connection between sink (Black.b: IO[UInt<8>]) and source (BlackDut.io.out_b: IO[UInt<8>]) failed @: b in Black cannot be written from module BlackDut.[0m
