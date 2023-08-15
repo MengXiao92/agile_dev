@@ -7,3 +7,5 @@
 
 
 // TODO 相关语法，trait, override, sealed abstract, case class, implicit, def apply()
+
+// TODO ref https://oscpu.gitbook.io/nutshell/gong-neng-bu-jian-she-ji-xi-jie/cache
